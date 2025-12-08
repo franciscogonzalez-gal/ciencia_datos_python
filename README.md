@@ -1,5 +1,11 @@
 # Ciencia de Datos con Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+
 Este repositorio contiene materiales de laboratorio para el curso de Ciencia de Datos con Python. Incluye ejercicios prácticos en Jupyter Notebooks que cubren fundamentos de programación, estructuras de datos y análisis de datos.
 
 ## Autor
